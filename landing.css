@@ -1,0 +1,12 @@
+.content{
+	padding-top: 25%;
+	text-align: center;
+}
+#special{
+	background: url(https://images.pexels.com/photos/33053/dog-young-dog-small-dog-maltese.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: hind siliguri;
+}
+h1,h5{color: white;}
+html{height: 100%;}
